@@ -1,0 +1,6 @@
+# do not include obj and bin folders
+
+obj
+bin
+nupkg
+logs
